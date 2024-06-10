@@ -1,0 +1,44 @@
+[
+    {
+        "categoryId": "100001",
+        "categoryTitle": "お申し込みに関する質問",
+        "index": [
+            "お申し込みに関する質問"
+        ]
+    },
+    {
+        "categoryId": "100002",
+        "categoryTitle": "料金・支払いに関する質問",
+        "index": [
+            "料金・支払いに関する質問"
+        ]
+    },
+    {
+        "categoryId": "100003",
+        "categoryTitle": "サービス内容に関する質問",
+        "index": [
+            "サービス内容に関する質問"
+        ]
+    },
+    {
+        "categoryId": "100004",
+        "categoryTitle": "郵便物転送に関する質問",
+        "index": [
+            "郵便物転送に関する質問"
+        ]
+    },
+    {
+        "categoryId": "100005",
+        "categoryTitle": "登録変更・手続きに関する質問",
+        "index": [
+            "登録変更・手続きに関する質問"
+        ]
+    },
+    {
+        "categoryId": "100006",
+        "categoryTitle": "会議室利用に関する質問",
+        "index": [
+            "会議室利用に関する質問"
+        ]
+    }
+]
