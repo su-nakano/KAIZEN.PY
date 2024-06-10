@@ -1,0 +1,4 @@
+.env
+credentials.json
+service_account_credentials.json 
+venv/*
